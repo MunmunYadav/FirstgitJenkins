@@ -1,0 +1,8 @@
+com\IIQQATestCases\SourceConfigure.class
+com\IIQQATestCases\AccountCreation.class
+com\IIQQATestCases\LogIn.class
+com\IIQQATestCases\Accounts.class
+com\IIQQATestCases\Password.class
+com\IIQQATestCases\LifeCycleState.class
+com\IIQQATestCases\UIConfiguration.class
+com\IIQQATestCases\Aggregation.class
